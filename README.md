@@ -1,1 +1,1 @@
-The Material about SLAM in Math and Coding
+The material about SLAM in Math and Coding
